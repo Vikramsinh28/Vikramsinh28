@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1 align="center">Hi , I'm Milan Vikramsinh Parmar</h1>
+<h1 align="center">Hi , I'm Vikramsinh Parmar</h1>
 <h3 align="center">I'm a MERN Stack Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Vikramsinh28&icon=0&color=1)](https://visitcount.itsvg.in)
@@ -41,12 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikramsinh28&show_icons=true&theme=dark&title_color=5dfd70&text_color=ffffff&locale=en" alt="Vikramsinh28" /></p>
 
 <br/>
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/milan-dudhat-b45166216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/_milndudhat_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_milan.dudhat_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
   
